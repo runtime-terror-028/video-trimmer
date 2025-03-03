@@ -1,8 +1,8 @@
-# script-video-trimmer
+# Video Trimmer
 Simple NodeJS script that uses `ffmpeg` to trim some duration from either start or end of the video.
 
 ## How to use
-Make use NodeJS is installed
+Make sure NodeJS is installed
 
 - `npm i`
 
