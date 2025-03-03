@@ -1,0 +1,6 @@
+{
+    "input_folder_path": "./input",
+    "output_folder_path": "./output",
+    "trim_duration": "4.2",
+    "trim_start_or_end": "end"
+}
